@@ -26,6 +26,11 @@ The Python script performs the following analyses:
 8. **Profit Analysis by Year**: Analyzes annual profit trends.
 
 ## Power BI Dashboard
+![image](https://github.com/user-attachments/assets/fe0bbf20-980a-4865-9ab0-a4a7b8c3f44c)
+![image](https://github.com/user-attachments/assets/058d5102-7eb5-490d-8ad4-67ae7bb7284c)
+![image](https://github.com/user-attachments/assets/d466d501-3106-4c64-a4ed-36445bee018d)
+
+
 
 The Power BI dashboard visualizes similar metrics with the following key components:
 1. **Total Sales and Profit Summary**: Displays overall sales and profit figures.
